@@ -1,0 +1,1 @@
+I have developed a simple Notepad application using WinForms and C#. It is still a work in progress, but it already supports basic text editing functionalities. I’m continuously improving it by adding new features and refining the user experience. Excited to see how it evolves!
